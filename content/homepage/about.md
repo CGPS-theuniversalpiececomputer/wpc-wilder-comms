@@ -1,8 +1,8 @@
 ---
 title: THE WILDER-NESS, WORLD PIECE COMPUTER, LLC
 draft: false
-avatar: images/website_portrait.png
-bio: Hi. I'm Wilder. This partition within the wp.computer domain space is devoted to hosting my personal world piece computer. PLEASE BE PATIENT AS THIS SITE IS UNDER CONSTRUCTION.
+avatar: images/laughprofile.png
+bio: Hi! I'm Wilder, Blair Munro from Anchorage, Alaska. This partition within the wp.computer domain space is devoted to hosting my personal world piece computer, Wilder WPC. PLEASE BE PATIENT AS THIS SITE IS UNDER CONSTRUCTION.
 
 social:
   - icon: github
